@@ -1,0 +1,181 @@
+{
+    "type": "category",
+    "version": "0.1",
+    "category": {
+        "0": {
+            "name": "OSINT Framework",
+            "apps": [],
+            "subc": ["00", "01", "02", "03", "04", "05", "06"]
+        },
+        "0-0": {
+            "name": "Username",
+            "apps": [],
+            "subc": ["000", "001", "002"]
+        },
+        "0-1": {
+            "name": "Email Address",
+            "apps": [],
+            "subc": []
+        },
+        "0-2": {
+            "name": "Domain Name",
+            "apps": [],
+            "subc": []
+        },
+        "0-3": {
+            "name": "IP Address",
+            "apps": [],
+            "subc": []
+        },
+        "0-4": {
+            "name": "Images / Videos / Docs",
+            "apps": [],
+            "subc": []
+        },
+        "0-5": {
+            "name": "Social Networks",
+            "apps": [],
+            "subc": []
+        },
+        "0-6": {
+            "name": "Instant Messaging",
+            "apps": [],
+            "subc": []
+        },
+        "0-7": {
+            "name": "People Search Engine",
+            "apps": [],
+            "subc": []
+        },
+        "0-8": {
+            "name": "Dating",
+            "apps": [],
+            "subc": []
+        },
+        "0-9": {
+            "name": "Telephone Numbers",
+            "apps": [],
+            "subc": []
+        },
+        "0-10": {
+            "name": "Public Records",
+            "apps": [],
+            "subc": [] 
+        },
+        "0-11": {
+            "name": "Business Records",
+            "apps": [],
+            "subc": []
+        },
+        "0-12": {
+            "name": "Transportation",
+            "apps": [],
+            "subc": []
+        },
+        "0-13": {
+            "name": "Geolocation Tools / Maps",
+            "apps": [],
+            "subc": []
+        },
+        "0-14": {
+            "name": "Search Engines",
+            "apps": [],
+            "subc": []
+        },
+        "0-15": {
+            "name": "Forums / Blogs / IRC",
+            "apps": [],
+            "subc": []
+        },
+        "0-16": {
+            "name": "Archives",
+            "apps": [],
+            "subc": []
+        },
+        "0-17": {
+            "name": "Language Translation",
+            "apps": [],
+            "subc": []
+        },
+        "0-18": {
+            "name": "Metadata",
+            "apps": [],
+            "subc": []
+        },
+        "0-19": {
+            "name": "Mobile Emulation",
+            "apps": [],
+            "subc": []
+        },
+        "0-20": {
+            "name": "Terrorism",
+            "apps": [],
+            "subc": []
+        },
+        "0-21": {
+            "name": "Dark Web",
+            "apps": [],
+            "subc": []
+        },
+        "0-22": {
+            "name": "Digital Currency",
+            "apps": [],
+            "subc": []
+        },
+        "0-23": {
+            "name": "Classifieds",
+            "apps": [],
+            "subc": []
+        },
+        "0-24": {
+            "name": "Encoding / Decoding",
+            "apps": [],
+            "subc": []
+        },
+        "0-25": {
+            "name": "Tools",
+            "apps": [],
+            "subc": []
+        },
+        "0-26": {
+            "name": "Malicious File Analysis",
+            "apps": [],
+            "subc": []
+        },
+        "0-27": {
+            "name": "Exploits & Advisories",
+            "apps": [],
+            "subc": []
+        },
+        "0-28": {
+            "name": "Threat Intelligence",
+            "apps": [],
+            "subc": []
+        },
+        "0-29": {
+            "name": "OpSec",
+            "apps": [],
+            "subc": []
+        },
+        "0-30": {
+            "name": "Documentation",
+            "apps": [],
+            "subc": []
+        },
+        "0-31": {
+            "name": "Training",
+            "apps": [],
+            "subc": []
+        },
+        "0-0-0": {
+            "name": "Username Search Engine",
+            "apps": [],
+            "subc": []
+        },
+        "0-0-1": {
+            "name": "Specific Sites",
+            "apps": [],
+            "subc": []
+        }
+    }
+}
